@@ -5,3 +5,4 @@ Git tracks changes of files.
 line5
 line6
 line7
+line8
